@@ -126,3 +126,33 @@ ul{
     margin: auto 0;
     border: 1px dashed black;
 }
+
+.container-footer{
+    max-width: 100%;
+    border-top: 1px solid white;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+.col-footer{
+    width: 60%;
+    height: 50px;
+    background-color: aqua;
+    margin: auto;
+    border: 1px dashed grey;
+    display: flex;
+    padding: 10px;
+    justify-content: space-between;
+}
+
+.col-logo{
+    background-color: rgb(223, 106, 106);
+    border: 1px dashed black;
+}
+
+.col-bottone{
+    background-color: rgb(223, 106, 106);
+    border: 1px dashed black;
+    align-items: end;
+}
