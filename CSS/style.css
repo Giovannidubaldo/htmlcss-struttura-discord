@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-.container{
+.container-header{
     max-width: 100%;
     margin: 0 auto;
     padding: 10px;
@@ -81,4 +81,9 @@ ul{
     height: 200px;
     background-color: pink;
     margin: auto 0;
+}
+
+.bg-grey{
+    background-color: lightgrey;
+    flex-direction: row-reverse;
 }
