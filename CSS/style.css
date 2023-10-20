@@ -106,3 +106,23 @@ ul{
     border: 1px dashed black;
     margin: auto;
 }
+
+.bg-black{
+    background-color: rgb(22, 22, 22);
+}
+
+.col-red{
+    width: 20%;
+    height: 200px;
+    background-color: rgb(223, 106, 106);
+    margin: auto 0;
+    border: 1px dashed black;
+}
+
+.col-10{
+    width: 10%;
+    height: 200px;
+    background-color: rgb(108, 196, 197);
+    margin: auto 0;
+    border: 1px dashed black;
+}
